@@ -4,6 +4,9 @@
 This Unity project was created as part of **Homework 7** in the Game Development course.  
 The goal was to combine two components: world building and player control, in a custom 3D scene.
 
+## 🔗 Play Online  
+You can play the game online here:  
+👉 [https://mayarom.itch.io/hw7-worldcreation](https://mayarom.itch.io/hw7-worldcreation)
 ---
 
 ## ✅ My Chosen Ideas & Implementation
@@ -79,6 +82,4 @@ Editor version: `Unity 6000.0.24f1 (LTS)`
 
 ---
 
-## 🔗 Play Online  
-You can play the game online here:  
-👉 [https://mayarom.itch.io/hw7-worldcreation](https://mayarom.itch.io/hw7-worldcreation)
+
