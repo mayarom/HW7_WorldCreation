@@ -40,33 +40,33 @@ Once the player steps on the finish zone, a new scene (`VictoryScene`) is loaded
 ## 🏁 Game Objective
 The player starts inside a 3D room and must:
 
-1. Move, explore, and jump to reach the stairs
-2. Find the small side room and exit to the garden
-3. Reach the raised **FINISH** platform
+1. Move, explore, and jump to reach the stairs  
+2. Find the small side room and exit to the garden  
+3. Reach the raised **FINISH** platform  
 4. Trigger a transition to the `VictoryScene`
 
 ---
 
 ## 🎥 Scenes
-- `MainScene`: Full 3D playable level with player and camera
+- `MainScene`: Full 3D playable level with player and camera  
 - `VictoryScene`: Simple win screen with a "Victory!" message
 
 ---
 
 ## 🧪 How to Play
-1. Open the project in Unity (v6000.0.24f1 or later)
-2. Load the `MainScene`
-3. Press **Play**
-4. Move using **WASD**, jump with **Space**
+1. Open the project in Unity (v6000.0.24f1 or later)  
+2. Load the `MainScene`  
+3. Press **Play**  
+4. Move using **WASD**, jump with **Space**  
 5. Reach the finish platform to win
 
 ---
 
 ## 📁 Project Structure (Highlights)
-- `Assets/Scripts/` – `PlayerMovement.cs`, `CameraFollow.cs`, `FinishTrigger.cs`, `IntroTextFade.cs`
-- `Scenes/MainScene.unity` – The full game level
-- `Scenes/VictoryScene.unity` – The victory scene
-- `Materials/` – Colored materials (e.g., red stairs, white walls)
+- `Assets/Scripts/` – `PlayerMovement.cs`, `CameraFollow.cs`, `FinishTrigger.cs`, `IntroTextFade.cs`  
+- `Scenes/MainScene.unity` – The full game level  
+- `Scenes/VictoryScene.unity` – The victory scene  
+- `Materials/` – Colored materials (e.g., red stairs, white walls)  
 - `Canvas/IntroText` – UI instructions for the player
 
 ---
@@ -79,3 +79,6 @@ Editor version: `Unity 6000.0.24f1 (LTS)`
 
 ---
 
+## 🔗 Play Online  
+You can play the game online here:  
+👉 [https://mayarom.itch.io/hw7-worldcreation](https://mayarom.itch.io/hw7-worldcreation)
