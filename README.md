@@ -1,5 +1,5 @@
-# Weekly Assignment – Building a World and Pathfinding in 3D  
-**Homework 7 – Game Development Course – Ariel University**
+# Weekly Assignment - Building a World and Pathfinding in 3D  
+**Homework 7 - Game Development Course - Ariel University**
 
 This Unity project was created as part of **Homework 7** in the Game Development course.  
 The goal was to combine two components: world building and player control, in a custom 3D scene.
@@ -66,18 +66,18 @@ The player starts inside a 3D room and must:
 ---
 
 ## 📁 Project Structure (Highlights)
-- `Assets/Scripts/` – `PlayerMovement.cs`, `CameraFollow.cs`, `FinishTrigger.cs`, `IntroTextFade.cs`  
-- `Scenes/MainScene.unity` – The full game level  
-- `Scenes/VictoryScene.unity` – The victory scene  
-- `Materials/` – Colored materials (e.g., red stairs, white walls)  
-- `Canvas/IntroText` – UI instructions for the player
+- `Assets/Scripts/` - `PlayerMovement.cs`, `CameraFollow.cs`, `FinishTrigger.cs`, `IntroTextFade.cs`  
+- `Scenes/MainScene.unity` - The full game level  
+- `Scenes/VictoryScene.unity` - The victory scene  
+- `Materials/` - Colored materials (e.g., red stairs, white walls)  
+- `Canvas/IntroText` - UI instructions for the player
 
 ---
 
 ## 👤 Author
 **Maya Rom**  
 Student ID: 207485251  
-Ariel University – Game Development Course  
+Ariel University - Game Development Course  
 Editor version: `Unity 6000.0.24f1 (LTS)`
 
 ---
